@@ -1,5 +1,7 @@
 body {
     margin: 20px;
+    background-image: url("image/giphy.gif");
+    background-size: cover;
     
 }
 .image{
