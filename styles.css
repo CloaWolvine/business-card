@@ -30,7 +30,7 @@ body {
     margin-top: 40px;
     text-align: center;
     border-radius: 30px;
-    background-color: #d8cefe;
+    background: linear-gradient(#af9ef4, #d8cefe );
     padding: 20px;
     justify-content: space-around;
     width: 400px;
